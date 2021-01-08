@@ -1,5 +1,9 @@
-<div align="center">
-	<br>
-	<img src="https://raw.githubusercontent.com/JerryC8080/JerryC8080/master/header.svg" width="800" height="400">
-	<br>
-</div>
+![](https://github-readme-stats.vercel.app/api?username=jerryc8080&count_private=true&show_icons=true&theme=radical)
+
+![](https://github-readme-stats.vercel.app/api/pin/?username=jerryc8080&repo=concurrent-merger&show_owner=true&theme=radical)
+
+![](https://github-readme-stats.vercel.app/api/pin/?username=jerryc8080&repo=mini-logger&show_owner=true&theme=radical)
+
+![](https://github-readme-stats.vercel.app/api/pin/?username=jerryc8080&repo=circuit-breaker&show_owner=true&theme=radical)
+
+
