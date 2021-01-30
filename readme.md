@@ -1,7 +1,7 @@
 
 
 
-## Wellcome ! How are you !
+## Wellcome ! It’s a pleasure to meet you !!
 
 <img width=700 src="https://github-readme-stats.vercel.app/api?username=jerryc8080&count_private=true&show_icons=true"/>
 
