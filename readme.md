@@ -6,14 +6,6 @@
 <img width=700 src="https://github-readme-stats.vercel.app/api?username=jerryc8080&count_private=true&show_icons=true"/>
 
 
-###  Thematic Study - 主题研究
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=jerryc8080&repo=understand-tcp-udp)](https://github.com/JerryC8080/understand-tcp-udp)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=jerryc8080&repo=unittest-demo)](https://github.com/JerryC8080/unittest-demo)
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=jerryc8080&repo=Tools)](https://github.com/JerryC8080/Tools)
-
-
 ### A Little Invention - 一些小发明
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=beautywe&repo=beautywe)](https://github.com/beautywe/beautywe)
@@ -29,3 +21,10 @@
 [![](https://github-readme-stats.vercel.app/api/pin/?username=jerryc8080&repo=docsify-remote-markdown)](https://github.com/JerryC8080/docsify-remote-markdown)
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=jerryc8080&repo=time-buried)](https://github.com/JerryC8080/time-buried)
+
+###  Thematic Study - 主题研究
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=jerryc8080&repo=understand-tcp-udp)](https://github.com/JerryC8080/understand-tcp-udp)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=jerryc8080&repo=unittest-demo)](https://github.com/JerryC8080/unittest-demo)
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=jerryc8080&repo=Tools)](https://github.com/JerryC8080/Tools)
