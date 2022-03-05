@@ -11,7 +11,7 @@
 [![](https://github-readme-stats.vercel.app/api/pin/?username=beautywe&repo=BeautyWe)](https://github.com/beautywe/beautywe)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=jerryc8080&repo=memeye)](https://github.com/JerryC8080/memeye)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=jerryc8080&repo=GlacierJS)](https://github.com/JerryC8080/glacierjs)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=jerryc8080&repo=glacierjs)](https://github.com/JerryC8080/glacierjs)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=jerryc8080&repo=wxapp-router)](https://github.com/JerryC8080/wxapp-router)
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=jerryc8080&repo=concurrent-merger)](https://github.com/JerryC8080/concurrent-merger)
